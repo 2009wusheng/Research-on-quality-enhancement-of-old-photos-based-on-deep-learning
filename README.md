@@ -45,7 +45,7 @@
 如果您觉得本项目对您的研究有所帮助，请引用：
 
 ```bibtex
-@misc{oldphoto2024,
+@misc{oldphotoDL2023,
   title={Research on Quality Enhancement of Old Photos Based on Deep Learning},
   author={HU Zhibo},
   year={2023},
